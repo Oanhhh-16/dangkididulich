@@ -5,13 +5,13 @@ def get_connection():
 
     conn = pymysql.connect(
 
-        host="mysql-3a5ef2bc-binhquytoc.a.aivencloud.com",
+        host="mysql-97afee7-dlu-a57b.k.aivencloud.com",
 
-        port=14483,
+        port=26333,
 
         user="avnadmin",
 
-        password="AVNS_TX2oBXmTGGjXba6p7j1",
+        password="AVNS_sJpBYdghqeVECSBW6jM",
 
         database="company2",
 
